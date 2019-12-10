@@ -1,4 +1,3 @@
-# We are the SHS programming club!
 ## We can help you with:
 - Phones
 - Computers
